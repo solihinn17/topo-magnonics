@@ -1,13 +1,15 @@
-Codes for generate cavity transmission spectra and related plots of bilayer magnetic thin film inside an electromagnetic cavity.
+# [Nama Repository Anda, misal: crsise3-monolayer-properties]
 
-The file `calc.ipynb` contains notes and codes for calculating the transmission spectra and some other plots of bilayer magnetic thin film inside an electromagnetic cavity.
+Codes for generating plots of some properties of the CrSiSe$_3$ monolayer.
 
-For the best online rendering of the Python notebook, please use [nbviewer.jupyter.org](https://nbviewer.jupyter.org/) and type this GitHub repository address: `solihinn17/bilayer-cavity-magnonics`
+The file `calc.ipynb` contains notes and codes for plotting the electronic, magnetic, and topological properties of the CrSiSe$_3$ monolayer under varying strains and external electric fields.
 
-## Contributors
-* **Solihin** - solihin1717 [dot] wonomulyo [at] gmail [dot] com 
-* **Ahmad Ridwan Tresna Nugraha** - art [dot] nugraha [at] gmail [dot] com 
-* **Muhammad Aziz Majidi** - aziz [dot] majidi [at] sci [dot] ui [dot] ac [dot] id 
+For the best online rendering of the Python notebook, please use [nbviewer.jupyter.org](https://nbviewer.jupyter.org/) and type this GitHub repository address: `solihinn17/[nama-repo-baru-anda]`
+
+Contributors:
+- Solihin <a href="mailto:solihin1717.wonomulyo@gmail.com">solihin1717 [dot] wonomulyo [at] gmail [dot] com </a>
+- Ahmad Ridwan Tresna Nugraha <a href="mailto:art.nugraha@gmail.com">art [dot] nugraha [at] gmail [dot] com </a>
+- Muhammad Aziz Majidi <a href="mailto:aziz.majidi@sci.ui.ac.id"> aziz [dot] majidi [at] sci [dot] ui [dot] ac [dot] id </a>
 
 ---
 
