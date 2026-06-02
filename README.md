@@ -1,4 +1,4 @@
-Codes for generating plots of some properties of the CrSiSe_3 monolayer.
+Codes for generating plots of some properties of the CrSiSe<sub>3</sub> monolayer.
 
 The file `calc.ipynb` contains notes and codes for plotting the electronic, magnetic, and topological properties of the CrSiSe$_3$ monolayer under varying strains and external electric fields.
 
