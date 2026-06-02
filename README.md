@@ -1,8 +1,4 @@
-Codes for generating plots of some properties of the CrSiSe<sub>3</sub> monolayer.
-
-The file `calc.ipynb` contains notes and codes for plotting the electronic, magnetic, and topological properties of the CrSiSe$_3$ monolayer under varying strains and external electric fields.
-
-For the best online rendering of the Python notebook, please use [nbviewer.jupyter.org](https://nbviewer.jupyter.org/) and type this GitHub repository address: `solihinn17/[nama-repo-baru-anda]`
+This repository contains computational simulation data for the electronic, magnetic, and topological properties of the CrSiSe<sub>3</sub> monolayer under varying strains and external electric fields.
 
 Contributors:
 - Solihin <a href="mailto:solihin1717.wonomulyo@gmail.com">solihin1717 [dot] wonomulyo [at] gmail [dot] com </a>
